@@ -989,6 +989,10 @@ body[data-theme="dark"] .skill-icon {
   background: color-mix(in srgb, var(--skill-accent, #818cf8) 25%, #121a2b);
 }
 
+body[data-theme="dark"] .skill-icon--next {
+  color: #fff;
+}
+
 @media (max-width: 900px) {
   .hero-grid,
   .about-grid,
