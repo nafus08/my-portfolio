@@ -454,6 +454,7 @@ button {
 .skill-icon--kotlin { --skill-accent: #7f52ff; }
 .skill-icon--postgres { --skill-accent: #4169e1; }
 .skill-icon--mysql { --skill-accent: #00758f; }
+.skill-icon--mongodb { --skill-accent: #47a248; }
 .skill-icon--sqlite { --skill-accent: #0f80cc; }
 .skill-icon--firebase { --skill-accent: #f0a800; }
 .skill-icon--prisma { --skill-accent: #2d3748; }
@@ -475,6 +476,7 @@ button {
 .skill-item--kotlin { --skill-accent: #7f52ff; }
 .skill-item--postgres { --skill-accent: #4169e1; }
 .skill-item--mysql { --skill-accent: #00758f; }
+.skill-item--mongodb { --skill-accent: #47a248; }
 .skill-item--sqlite { --skill-accent: #0f80cc; }
 .skill-item--firebase { --skill-accent: #f0a800; }
 .skill-item--prisma { --skill-accent: #2d3748; }
